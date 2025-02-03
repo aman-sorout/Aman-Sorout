@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aman-sorout
 - 👀 I’m interested in Data Science, Machine Learning, Time Series, Deep Learning etcetera.
 - 🌱 I’m always learning something.
-- 💞️ I’m looking to collaborate on any Data Science Projects.
 - 📫 How to reach me vcksorout@gamil.com
 
 <!---
